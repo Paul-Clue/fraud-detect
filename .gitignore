@@ -1,6 +1,9 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Large files
+*.csv
+
 # Ignore build output
 /build
 /dist
